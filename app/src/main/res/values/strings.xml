@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScoreKeeperRugby</string>
+    <string name="Try">Try</string>
+    <string name="ConvertedTry">Converted Try</string>
+    <string name="DropGoal">Drop Goal</string>
+    <string name="Penalty">Penalty</string>
+    <string name="Reset">Reset</string>
+    <string name="TeamA">Team A</string>
+    <string name="TeamB">Team B</string>
+    <string name="Zero">0</string>
+</resources>
+
